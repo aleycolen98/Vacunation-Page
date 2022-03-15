@@ -7,4 +7,4 @@ Extras:
 
 [Aqui se encuentra una copia del código](https://github.com/aleycolen98/ArturoAley_LaunchX_FrontEnd/tree/main/3%20-%20CSS).
 
-[Auí se encuentra la campaña de Marketing](https://github.com/aleycolen98/Vacunation-Page/blob/main/Campa%C3%B1a_de_Marketing.pdf).
+[Aquí se encuentra la campaña de Marketing](https://github.com/aleycolen98/Vacunation-Page/blob/main/Campa%C3%B1a_de_Marketing.pdf).
